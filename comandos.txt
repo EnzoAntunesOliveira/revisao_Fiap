@@ -1,0 +1,8 @@
+Configuração do Git
+git config --global user.name "seu nome"
+git config --global user.email "seu e-mail"
+
+Inicializar o seu Git em seu projeto
+git init
+
+Inicializar repositorio local ao repositorio remoto(GITHUB) 
